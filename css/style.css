@@ -426,7 +426,7 @@ body .theme-button {
 
 #mega-menu-holder .clearfix{
   margin-right: 30px;
-    margin-top: -35px;
+    margin-top: 35px;
     list-style-type: none;
 }
 .theme-menu-two .main-header {
@@ -549,7 +549,7 @@ box-shadow: 0px 0px 18px -3px rgba(2,181,255,0.3);
 .theme-menu-two.transparent-menu #search-button:before {background: #fff;}
 .theme-menu-two.transparent-menu #mega-menu-holder>ul> li> a {
   color: #fff;
-  padding-bottom: 25px;
+  padding-bottom: 2px;
 }
 .theme-menu-two.transparent-menu #mega-menu-holder li .sub-toggle {color: #fff;top:18%;}
 .theme-menu-two.transparent-menu .collapse-button .icon-bar {background: #fff;}
@@ -579,33 +579,33 @@ box-shadow: 0px 0px 18px -3px rgba(2,181,255,0.3);
 .theme-menu-two.transparent-menu .main-header.fixed {background: #282828;}
 .theme-menu-two .main-header.fixed #mega-menu-holder>ul> li> a {padding-bottom: 25px;}
 /*-------------------------- Banner ----------------------*/
-#business-main-banner .tp-caption h1 {color: #fff;}
+#business-main-banner .tp-caption h1 {color: #1839A7;}
 #business-main-banner .tp-caption p {
   font-size: 18px;
-  color: #fff;
+  color: #1839A7;
   line-height: 30px;
   font-weight: 300;
 }
 #business-main-banner .tp-caption a {
   width: 250px;
   line-height: 46px;
-  border: 2px solid #fff;
+  border: 2px solid #1839A7;
   border-radius: 30px;
   text-align: center;
-  color: #fff;
+  color: #1839A7;
   font-size: 14px;
   font-weight: 300;
   text-transform: uppercase;
 }
-#business-main-banner .tp-caption a:hover {background: #fff;}
+#business-main-banner .tp-caption a:hover {background: #1839A7;}
 #business-main-banner .tp-caption a i {margin-right: 10px;}
 #business-main-banner .tp-caption img {max-width: 100% !important;}
 .hesperiden.tparrows {
   width: 48px;
   height: 48px;
   background: transparent;
-  border:1px solid #fff;
-  color: #fff;
+  border:1px solid #1839A7;
+  color: #1839A7;
 }
 .hesperiden.tparrows:before {
   font-family: 'font-awesome';
@@ -625,10 +625,10 @@ box-shadow: 0px 0px 18px -3px rgba(2,181,255,0.3);
   font-family: 'Lato', sans-serif;
   font-weight: normal;
   font-size: 48px;
-  color: #fff;
+  color: #1839A7;
 }
 #business-main-banner-two .tp-caption p{
-  color: #fff;
+  color: #1839A7;
 }
 #business-main-banner-two .tp-caption a {
   width: 216px;

@@ -579,33 +579,33 @@ box-shadow: 0px 0px 18px -3px rgba(2,181,255,0.3);
 .theme-menu-two.transparent-menu .main-header.fixed {background: #282828;}
 .theme-menu-two .main-header.fixed #mega-menu-holder>ul> li> a {padding-bottom: 25px;}
 /*-------------------------- Banner ----------------------*/
-#business-main-banner .tp-caption h1 {color: #000;}
+#business-main-banner .tp-caption h1 {color: #0088d9;}
 #business-main-banner .tp-caption p {
   font-size: 18px;
-  color: #000;
+  color: #0088d9;
   line-height: 30px;
   font-weight: 300;
 }
 #business-main-banner .tp-caption a {
   width: 250px;
   line-height: 46px;
-  border: 2px solid #000;
+  border: 2px solid #0088d9;
   border-radius: 30px;
   text-align: center;
-  color: #000;
+  color: #0088d9;
   font-size: 14px;
   font-weight: 300;
   text-transform: uppercase;
 }
-#business-main-banner .tp-caption a:hover {background: #000;}
+#business-main-banner .tp-caption a:hover {background: #0088d9;}
 #business-main-banner .tp-caption a i {margin-right: 10px;}
 #business-main-banner .tp-caption img {max-width: 100% !important;}
 .hesperiden.tparrows {
   width: 48px;
   height: 48px;
   background: transparent;
-  border:1px solid #000;
-  color: #000;
+  border:1px solid #0088d9;
+  color: #0088d9;
 }
 .hesperiden.tparrows:before {
   font-family: 'font-awesome';
@@ -625,20 +625,20 @@ box-shadow: 0px 0px 18px -3px rgba(2,181,255,0.3);
   font-family: 'Lato', sans-serif;
   font-weight: normal;
   font-size: 48px;
-  color: #000;
+  color: #0088d9;
 }
 #business-main-banner-two .tp-caption p{
-  color: #000;
+  color: #0088d9;
 }
 #business-main-banner-two .tp-caption a {
   width: 216px;
   line-height: 53px;
   border-width: 1px;
   font-weight: 500;
-  border: 1px solid #0070c0;
-  background-color: #0070c0;
+  border: 1px solid #0088d9;
+  background-color: #0088d9;
 }
-#business-main-banner-two .tp-caption a:hover {background: transparent; color: #0070c0;}
+#business-main-banner-two .tp-caption a:hover {background: transparent; color: #0088d9;}
 #banner {margin-bottom: 130px; margin-top: -15px;}
 /*----------------------------- Company Feature -------------------------*/
 .company-feature {margin-bottom: 145px;}
@@ -1532,7 +1532,7 @@ footer .bottom-footer ul li h3 {
 }
 .theme-inner-banner .bg .opacity h2 {
   font-weight: 800;
-  font-size: 50px;
+  font-size: 38px;
   text-transform: capitalize;
   color: #fff;
 }
